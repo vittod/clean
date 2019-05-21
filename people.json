@@ -1,0 +1,64 @@
+{
+    "people": [
+        {
+            "name": "marcus",
+            "now": 0,
+            "last": 6,
+            "before": 7
+        },
+        {
+            "name": "siro",
+            "now": 1,
+            "last": 4,
+            "before": 3
+        },
+        {
+            "name": "alex",
+            "now": 2,
+            "last": 3,
+            "before": 8
+        },
+        {
+            "name": "jan",
+            "now": 3,
+            "last": 1,
+            "before": 4
+        },
+        {
+            "name": "britta",
+            "now": 4,
+            "last": 7,
+            "before": 1
+        },
+        {
+            "name": "arne",
+            "now": 5,
+            "last": 8,
+            "before": 6
+        },
+        {
+            "name": "moritz",
+            "now": 6,
+            "last": 0,
+            "before": 2
+        },
+        {
+            "name": "hark",
+            "now": 7,
+            "last": 5,
+            "before": 9
+        },
+        {
+            "name": "anna",
+            "now": 8,
+            "last": 9,
+            "before": 0
+        },
+        {
+            "name": "nina",
+            "now": 9,
+            "last": 2,
+            "before": 5
+        }
+    ]
+}
